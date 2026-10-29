@@ -4,8 +4,15 @@
 
 ## Scheibenwischer
 
+### Frontcheibenwischer
+
+Bosch Aerotwin A 297 S
+1 x 600 mm (24 Zoll)
+1 x 500 mm (20 Zoll)
+Produktnummer 3 397 007 297
+
 ### Heckscheibenwischer
 
-Bosch A 360 H
-Länge von 380 mm (15 Zoll)
-Produktnummer 3397008997
+Bosch Aerotwin  A 360 H
+1 x Länge von 380 mm (15 Zoll)
+Produktnummer 3 397 008 997
