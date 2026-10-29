@@ -1,6 +1,6 @@
 # Audi A4 B9 Avant (8W5 / 8WD)
 
-2.0 TDI 150 PS / 110 KW 2015 - 2019
+2.0 TDI 150 PS / 110 kW 2015 - 2019
 
 ## Scheibenwischer
 
